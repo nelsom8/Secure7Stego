@@ -44,7 +44,8 @@ meu_projeto_encriptador/
 pip install -r requirements.txt
 
 ### ▶️ Como Executar
-
+cd dist/
+ls
 python3 Secure7Stego.py
 
 🧪 Como Funciona
